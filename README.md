@@ -1,7 +1,7 @@
-<h1 align="left">Hi 👋, I'm H3xWizz</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=h3xwizz&label=Profile%20views&color=8c00ff&style=flat-square" alt="h3xwizz" /> </p>
+<h1 align="left">Hi 👋, I'm NVTMRE</h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=NVTMRE&label=Profile%20views&color=8c00ff&style=flat-square" alt="NVTMRE" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=h3xwizz&theme=discord" alt="h3xwizz" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NVTMRE&theme=discord" alt="NVTMRE" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
