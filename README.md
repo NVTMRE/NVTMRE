@@ -2,7 +2,7 @@
 
 # 👋 NVTMRE
 
-### Full-Stack Developer | UI/UX Enthusiast | Open Source Contributor
+### Server admin | Full-stack Developer | UI Designer
 
 ```typescript
 const nvtmre = {
